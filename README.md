@@ -2,9 +2,8 @@
 
 Pytorch implementation of [WGAN-GP](https://arxiv.org/abs/1704.00028) trained on MNIST.
 
-## Examples
+## Samples
 
-#### Samples
 ![samples](https://github.com/theoclark/MNIST-PyTorch-WGAN-GP/blob/main/samples.png)
 
 ## Usage
