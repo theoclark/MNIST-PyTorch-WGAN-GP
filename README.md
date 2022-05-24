@@ -1,6 +1,6 @@
 # MNIST PyTorch WGAN-GP
 
-Pytorch implementation of [WGAN-GP](https://arxiv.org/abs/1704.00028) trained on MNIST. More info about WGANs in my [blog post](https://theoclark.co.uk/posts/wasserstein-gan.html)
+Pytorch implementation of [WGAN-GP](https://arxiv.org/abs/1704.00028) trained on MNIST. Read more about WGANs in my [blog post](https://theoclark.co.uk/posts/wasserstein-gan.html).
 
 ## Samples
 
